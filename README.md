@@ -2,7 +2,7 @@ Crime Rate Prediction in Chicago (2012-2017)
 
 This project utilizes Prophet, an open-source time-series forecasting tool, to predict crime rates in Chicago using historical data from 2012 to 2017. The goal is to analyze trends, uncover seasonality, and forecast future crime rates to aid in urban planning and public safety initiatives.
 
-Key Features
+Key Features:
 
 1)Preprocessing and cleaning historical crime data.
 
